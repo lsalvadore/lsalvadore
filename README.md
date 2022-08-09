@@ -9,3 +9,5 @@ Main activities:
 * **FreeBSD developer**: https://people.freebsd.org/~salvadore/
 * Hacker on **TryHackMe**: https://tryhackme.com/p/salvadore
 * Hacker on **HackTheBox**: https://app.hackthebox.com/profile/855831
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsalvadore&count_private=true&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
